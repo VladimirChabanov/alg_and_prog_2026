@@ -7,3 +7,4 @@
 - **Задачи №5: https://contest.yandex.ru/contest/101392/problems/**
 - **Задачи №6: https://contest.yandex.ru/contest/102606/problems/**
 - **Задачи №7: https://contest.yandex.ru/contest/103483/problems/**
+- **Задачи №8: https://contest.yandex.ru/contest/103969/problems/**
